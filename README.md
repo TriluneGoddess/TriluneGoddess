@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img width="300" src="https://github.com/TriluneGoddess/TriluneGoddess/blob/51bfcac2a941f4f7cce5d136905c67c29765be95/G62_zTMakAAv4LE-1.jpg">
+  <img width="150" src="https://github.com/TriluneGoddess/TriluneGoddess/blob/51bfcac2a941f4f7cce5d136905c67c29765be95/G62_zTMakAAv4LE-1.jpg">
 </p>
 
 <p align="center">
